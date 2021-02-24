@@ -1,0 +1,24 @@
+{
+  "files": {
+    "main.css": "/etheral/static/css/main.8c8b27cf.chunk.css",
+    "main.js": "/etheral/static/js/main.e1763f94.chunk.js",
+    "main.js.map": "/etheral/static/js/main.e1763f94.chunk.js.map",
+    "runtime-main.js": "/etheral/static/js/runtime-main.41098bfc.js",
+    "runtime-main.js.map": "/etheral/static/js/runtime-main.41098bfc.js.map",
+    "static/js/2.99a37947.chunk.js": "/etheral/static/js/2.99a37947.chunk.js",
+    "static/js/2.99a37947.chunk.js.map": "/etheral/static/js/2.99a37947.chunk.js.map",
+    "static/js/3.76ef8a2f.chunk.js": "/etheral/static/js/3.76ef8a2f.chunk.js",
+    "static/js/3.76ef8a2f.chunk.js.map": "/etheral/static/js/3.76ef8a2f.chunk.js.map",
+    "index.html": "/etheral/index.html",
+    "service-worker.js": "/etheral/service-worker.js",
+    "service-worker.js.map": "/etheral/service-worker.js.map",
+    "static/css/main.8c8b27cf.chunk.css.map": "/etheral/static/css/main.8c8b27cf.chunk.css.map",
+    "static/js/2.99a37947.chunk.js.LICENSE.txt": "/etheral/static/js/2.99a37947.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.41098bfc.js",
+    "static/js/2.99a37947.chunk.js",
+    "static/css/main.8c8b27cf.chunk.css",
+    "static/js/main.e1763f94.chunk.js"
+  ]
+}
