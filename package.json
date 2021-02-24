@@ -4,6 +4,8 @@
   "private": true,
   "homepage": "https://xrehpicx.github.io/etheral",
   "dependencies": {
+    "@material-ui/core": "^4.11.3",
+    "@material-ui/icons": "^4.11.2",
     "@testing-library/jest-dom": "^5.11.6",
     "@testing-library/react": "^11.2.2",
     "@testing-library/user-event": "^12.2.2",
@@ -11,10 +13,16 @@
     "@types/node": "^12.19.7",
     "@types/react": "^16.14.2",
     "@types/react-dom": "^16.9.10",
+    "@types/styled-components": "^5.1.7",
+    "framer-motion": "^3.7.0",
     "react": "^17.0.1",
     "react-dom": "^17.0.1",
+    "react-responsive-masonry": "^2.1.1",
     "react-scripts": "4.0.1",
+    "react-stack-grid": "^0.7.1",
+    "styled-components": "^5.2.1",
     "typescript": "^4.1.2",
+    "typescript-plugin-styled-components": "^1.4.4",
     "web-vitals": "^0.2.4",
     "workbox-background-sync": "^5.1.4",
     "workbox-broadcast-update": "^5.1.4",
@@ -56,6 +64,8 @@
     ]
   },
   "devDependencies": {
+    "@types/react-stack-grid": "^0.7.0",
+    "autoresponsive-react": "^1.1.31",
     "gh-pages": "^3.1.0"
   }
 }
